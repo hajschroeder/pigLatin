@@ -28,9 +28,9 @@ It should move 'q' and 'u' to the end and add 'ay'
 
 
 
-Describe: pigLatin();
+Describe: noInputtedWord();
 
 Test: Should not accept an empty string.
-code: pigLatin(" ");
+code: noInputtedWord(" ");
 Expected Output: 0;
 
